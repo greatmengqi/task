@@ -1,0 +1,40 @@
+2019-05-22 16:37:44,944 - INFO: 报文统计执行成功
+2019-05-22 16:37:44,954 - INFO: 报文统计执行成功
+2019-05-22 16:37:44,954 - INFO: 船舶划分执行成功
+2019-05-22 16:38:29,448 - INFO: 报文统计执行成功
+2019-05-22 16:38:29,450 - INFO: 报文统计执行成功
+2019-05-22 16:38:29,452 - INFO: 船舶划分执行成功
+2019-05-22 16:39:05,083 - INFO: 报文统计执行成功
+2019-05-22 16:39:05,084 - INFO: 数据入库执行成功
+2019-05-22 16:39:05,085 - INFO: 船舶划分执行成功
+2019-05-22 17:03:52,305 - INFO: 2019-0月份数据存在
+2019-05-22 17:03:58,096 - DEBUG: b'19/05/22 17:03:58 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\r\n'
+2019-05-22 17:03:58,452 - DEBUG: b"put: `/data/aisdata/${month}': No such file or directory\r\n"
+2019-05-22 17:03:58,495 - INFO: 报文统计执行成功
+2019-05-22 17:03:58,498 - INFO: 数据入库执行成功
+2019-05-22 17:03:58,499 - INFO: 船舶划分执行成功
+2019-05-22 17:05:26,113 - INFO: 2019-0月份数据存在
+2019-05-22 17:05:30,138 - DEBUG: b'19/05/22 17:05:30 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\r\n'
+2019-05-22 17:05:30,373 - DEBUG: b"put: `/data/aisdata/${month}': No such file or directory\r\n"
+2019-05-22 17:05:30,407 - INFO: 报文统计执行成功
+2019-05-22 17:05:30,409 - INFO: 数据入库执行成功
+2019-05-22 17:05:30,410 - INFO: 船舶划分执行成功
+2019-05-22 17:06:32,904 - INFO: 2019-05月份数据存在
+2019-05-22 17:06:37,408 - DEBUG: b'19/05/22 17:06:37 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\r\n'
+2019-05-22 17:06:37,650 - DEBUG: b"put: `/data/aisdata/${month}': No such file or directory\r\n"
+2019-05-22 17:06:37,691 - INFO: 报文统计执行成功
+2019-05-22 17:06:37,693 - INFO: 数据入库执行成功
+2019-05-22 17:06:37,694 - INFO: 船舶划分执行成功
+2019-05-22 17:07:53,038 - INFO: 2019-05月份数据存在
+2019-05-22 17:07:57,113 - DEBUG: b'19/05/22 17:07:57 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\r\n'
+2019-05-22 17:07:57,594 - DEBUG: b"put: `/data/aisdata/${month}': No such file or directory\r\n"
+2019-05-22 17:07:57,832 - INFO: 报文统计执行成功
+2019-05-22 17:07:57,834 - INFO: 数据入库执行成功
+2019-05-22 17:07:57,835 - INFO: 船舶划分执行成功
+2019-05-22 17:09:18,190 - INFO: 2019-05月份数据存在
+2019-05-22 17:09:22,381 - DEBUG: b'19/05/22 17:09:22 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\r\n'
+2019-05-22 17:09:22,649 - DEBUG: b"put: `/data/aisdata/${month}': No such file or directory\r\n"
+2019-05-22 17:09:22,696 - INFO: 2019-05月份数据上传失败hdfs
+2019-05-22 17:09:22,697 - INFO: 报文统计执行成功
+2019-05-22 17:09:22,699 - INFO: 数据入库执行成功
+2019-05-22 17:09:22,700 - INFO: 船舶划分执行成功
